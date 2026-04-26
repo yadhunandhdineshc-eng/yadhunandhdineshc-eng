@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm **[`YADHUNANDH  C`](www.linkedin.com/in/yadhunandh-c-32557932b)**, Aspiring SOC Analyst with hands-on experience in vulnerability assessment, penetration testing, and cybersecurity labs. Skilled in tools like Nmap, Burp Suite, and Metasploit, with a focus on threat detection and security analysis. Familiar with  SOC fundamentals including log analysis and threat detection. Actively seeking entry-level SOC Analyst roles.
+I'm **[`YADHUNANDH  C`](https://www.linkedin.com/in/yadhunandh-c-32557932b/)**, Aspiring SOC Analyst with hands-on experience in vulnerability assessment, penetration testing, and cybersecurity labs. Skilled in tools like Nmap, Burp Suite, and Metasploit, with a focus on threat detection and security analysis. Familiar with  SOC fundamentals including log analysis and threat detection. Actively seeking entry-level SOC Analyst roles.
 .
 
 
-<a href="www.linkedin.com/in/yadhunandh-c-32557932b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yadhunandh-c-32557932b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>

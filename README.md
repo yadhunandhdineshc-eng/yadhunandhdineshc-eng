@@ -76,7 +76,5 @@ I'm **[`YADHUNANDH  C`](https://www.linkedin.com/in/yadhunandh-c-32557932b/)**, 
 | **Project** | **Description** |
 |------------|----------------|
 | **[Zero Bank Web App Pentest](https://github.com/yadhunandhdineshc-eng/zero-bank-pentest-vapt)** | Performed web application penetration testing using Nmap, Gobuster, and Nikto; identified critical vulnerabilities including exposed admin panels and insecure configurations. |
-| **[Drupal 7 RCE Exploitation](https://github.com/yourusername/drupal-7-rce-pentest-lab)** | Exploited Drupalgeddon2 vulnerability to gain remote shell access; demonstrated full attack flow including enumeration and post-exploitation. |
-| **[EternalBlue SMB Exploit (MS17-010)](https://github.com/yourusername/ms17-010-eternalblue-exploitation-lab)** | Identified and exploited SMB vulnerability to gain SYSTEM-level access; performed credential dumping and post-exploitation analysis. |
 | **[Icecast RCE & Privilege Escalation](https://github.com/yourusername/windows-icecast-rce-privesc-lab)** | Exploited Icecast buffer overflow to gain initial access, escalated privileges to SYSTEM, and established persistence via RDP. |
 | **[SQL Injection eExpliotation (PortSwigger)](https://github.com/yourusername/sql-injection-labs-portswigger)** | Performed advanced SQL injection attacks including UNION, blind, and time-based techniques; extracted sensitive data using Burp Suite. |

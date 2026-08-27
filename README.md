@@ -62,7 +62,7 @@ I'm **[`YADHUNANDH  C`](https://www.linkedin.com/in/yadhunandh-c-32557932b/)**, 
   <p>
  <img src="ECC-CSA-07FE19KHD2E3.png" alt="EC-Council CSA Badge" width="220"/>
   </p>
-<img src="https://img.shields.io/badge/CICSA-Pursuing-00C853?style=for-the-badge&color=000000" alt="CICSA Certification" />
+<img src="https://img.shields.io/badge/CICSA-Certified IT Infrastucture and Cyber SOC Analyst -00C853?style=for-the-badge&color=000000" alt="CICSA Certification" />
 
 <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-blue?style=for-the-badge&logo=cisco&color=000000" alt="Cisco Cybersecurity" />
 

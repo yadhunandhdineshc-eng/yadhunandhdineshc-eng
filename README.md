@@ -11,7 +11,7 @@ I'm **[`YADHUNANDH  C`](https://www.linkedin.com/in/yadhunandh-c-32557932b/)**, 
 
 - **Name**: Yadhunandh C
 - **From**: India
-- **Aspiring Soc Analyst** | **Cyber Security Researcher** 
+- | **Certified SOC Analyst (CSA)** |  **Cyber Security Researcher** |
 -* I have hands-on experience in vulnerability assessment, penetration testing, and cybersecurity lab environments.
 * Continuously improving my knowledge of **web application vulnerabilities**, **network security**, and **SOC fundamentals**.
 * Currently learning and exploring **threat detection**, **log analysis**, and **real-world attack simulation techniques**.

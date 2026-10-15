@@ -74,7 +74,7 @@ I'm **[`YADHUNANDH  C`](https://www.linkedin.com/in/yadhunandh-c-32557932b/)**, 
 
 | **Project** | **Description** |
 |------------|----------------|
-| **[Zero Bank Web App Pentest](https://github.com/yadhunandhdineshc-eng/zero-bank-pentest-vapt)** | Performed web application penetration testing using Nmap, Gobuster, and Nikto; identified critical vulnerabilities including exposed admin panels and insecure configurations. |
-| **[Icecast RCE & Privilege Escalation]** | Exploited Icecast buffer overflow to gain initial access, escalated privileges to SYSTEM, and established persistence via RDP. |
+| **[Web Application Vulnerablity Assesment](https://github.com/yadhunandhdineshc-eng/zero-bank-pentest-vapt)** | Performed web application penetration testing using Nmap, Gobuster, and Nikto; identified critical vulnerabilities including exposed admin panels and insecure configurations. |
+| **[Windows Exploitation & Privilege Escalation Lab]** | Exploited Icecast buffer overflow to gain initial access, escalated privileges to SYSTEM, and established persistence via RDP. |
 | **[SQL Injection Expliotation (PortSwigger)](https://github.com/yadhunandhdineshc-eng/SQl-Injection)** | Performed advanced SQL injection attacks including UNION, blind, and time-based techniques; extracted sensitive data using Burp Suite. |
 | **[Employee Attrition Predictor ](https://github.com/yourusername/Employee-attrition-predictor)** | A Web application which Predict Employee attrition Using machine learning algorithms and datasets. |
